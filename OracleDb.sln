@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDb.Context", "OracleDb.Context\OracleDb.Context.csproj", "{B7EFAC3F-C01C-489D-BA4D-575726C6BB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDb.Core", "OracleDb.Core\OracleDb.Core.csproj", "{3289AD98-FA26-467E-8926-ACEFE3F2F422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDb.Test", "OracleDb.Test\OracleDb.Test.csproj", "{A1D84BCB-B97A-4B8A-917D-022E5EC3268D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDb.Repository", "OracleDb.Repository\OracleDb.Repository.csproj", "{8755E7D1-540B-4BCB-A0DE-D02FF32EA3DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EFAC3F-C01C-489D-BA4D-575726C6BB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EFAC3F-C01C-489D-BA4D-575726C6BB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EFAC3F-C01C-489D-BA4D-575726C6BB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EFAC3F-C01C-489D-BA4D-575726C6BB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3289AD98-FA26-467E-8926-ACEFE3F2F422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3289AD98-FA26-467E-8926-ACEFE3F2F422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3289AD98-FA26-467E-8926-ACEFE3F2F422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3289AD98-FA26-467E-8926-ACEFE3F2F422}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1D84BCB-B97A-4B8A-917D-022E5EC3268D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D84BCB-B97A-4B8A-917D-022E5EC3268D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D84BCB-B97A-4B8A-917D-022E5EC3268D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D84BCB-B97A-4B8A-917D-022E5EC3268D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8755E7D1-540B-4BCB-A0DE-D02FF32EA3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8755E7D1-540B-4BCB-A0DE-D02FF32EA3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8755E7D1-540B-4BCB-A0DE-D02FF32EA3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8755E7D1-540B-4BCB-A0DE-D02FF32EA3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
